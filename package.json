@@ -1,6 +1,6 @@
 {
   "name": "@randajan/iban",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "'IBAN tools'",
   "repository": "randajan/iban",
   "type": "module",
